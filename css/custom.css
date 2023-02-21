@@ -1,0 +1,89 @@
+body {
+    margin: 20px;
+}
+
+.app-size {
+    width: 360px;
+    height: 800px;
+    border: 1px solid #e3e3e3;
+    border-radius: 50px;
+}
+
+.home-header {
+    height: 80px;
+    background-color: rebeccapurple;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    padding: 19px;
+}
+
+.home-footer {
+    height: 80px;
+    background-color: rebeccapurple;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    padding: 19px;
+}
+
+.content {
+    height: 640px;
+}
+
+.set-schedule {
+    padding: 50px 19px;
+}
+
+.section {
+    float: right;
+    font-size: 27px;
+    color: white;
+    margin-top: 13px;
+}
+
+.section-btn:hover {
+    cursor: pointer;
+}
+
+.userinfo-group {
+    font-size: 23px;
+    padding: 120px 50px;
+}
+
+.guide-content {
+    padding: 35px 25px;
+}
+
+table {
+    font-size: 10px;
+    text-align: center;
+}
+
+table tr th {
+    text-align: center;
+}
+
+table tbody tr {
+    height: 20px;
+}
+
+.petinfo {
+    padding: 19px;
+}
+
+
+.bg-login {
+    /* background-image: url(../img/luke-chesser-hQo6Uyo4nBg-unsplash.jpg); */
+    background-color: rebeccapurple;
+}
+
+.bg-home {
+    background-color: white;
+}
+
+.h-300 {
+    height: 300px;
+}
+
+.h-200 {
+    height: 200px;
+}
